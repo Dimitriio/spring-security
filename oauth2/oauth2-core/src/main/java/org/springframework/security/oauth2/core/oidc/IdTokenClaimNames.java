@@ -88,4 +88,8 @@ public interface IdTokenClaimNames {
 	 */
 	String C_HASH = "c_hash";
 
+	// todo make one interface for logout
+	String EVENTS = "events";
+	String SID = "sid";
+	String JTI = "jti";
 }
